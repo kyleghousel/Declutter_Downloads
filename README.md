@@ -1,0 +1,2 @@
+# Declutter_Downloads
+ I made a simple shell script to help me declutter my downloads folder. As a tester on a mobile scrum team, I am constantly downloading builds from AppCenter. That comes with a .zip file and the ensuing .app file. This script can be used to target any set of files in any folder. Target a common string the filenames start with, or a string representing the filetype the common files end with. 
