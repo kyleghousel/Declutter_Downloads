@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-downloads_dir="/Users/kylehousel/Downloads"
+downloads_dir="/Users/username/Downloads"
 
 cd "$downloads_dir" || exit 1
 
